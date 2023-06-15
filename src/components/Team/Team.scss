@@ -1,0 +1,40 @@
+.team-container {
+  background-color: black;
+  opacity: 0.7;
+  height: 230px;
+  white-space: nowrap;
+  overflow: overlay;
+  text-overflow: ellipsis;
+  padding: 0;
+}
+
+.thumbnail-img {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.avatar-container {
+  position: relative;
+  margin: 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.player-name {
+  position: absolute;
+  left: 100%;
+  margin-left: 10px;
+}
