@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cricket-auction-app/static/css/main.3d6290f5.css",
-    "main.js": "/cricket-auction-app/static/js/main.40f2127c.js",
+    "main.css": "/cricket-auction-app/static/css/main.d20a22c8.css",
+    "main.js": "/cricket-auction-app/static/js/main.68344565.js",
     "static/js/787.8323a123.chunk.js": "/cricket-auction-app/static/js/787.8323a123.chunk.js",
     "static/media/sold_gif.gif": "/cricket-auction-app/static/media/sold_gif.99996992d5c01606053d.gif",
     "static/media/live-logo.gif": "/cricket-auction-app/static/media/live-logo.032a4b97f8b84172591b.gif",
@@ -9,12 +9,12 @@
     "static/media/ipl-logo.jpg": "/cricket-auction-app/static/media/ipl-logo.379c80adfc92e071bd66.jpg",
     "static/media/sold_hammer.png": "/cricket-auction-app/static/media/sold_hammer.abed7ab6506d8ec3345f.png",
     "index.html": "/cricket-auction-app/index.html",
-    "main.3d6290f5.css.map": "/cricket-auction-app/static/css/main.3d6290f5.css.map",
-    "main.40f2127c.js.map": "/cricket-auction-app/static/js/main.40f2127c.js.map",
+    "main.d20a22c8.css.map": "/cricket-auction-app/static/css/main.d20a22c8.css.map",
+    "main.68344565.js.map": "/cricket-auction-app/static/js/main.68344565.js.map",
     "787.8323a123.chunk.js.map": "/cricket-auction-app/static/js/787.8323a123.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d6290f5.css",
-    "static/js/main.40f2127c.js"
+    "static/css/main.d20a22c8.css",
+    "static/js/main.68344565.js"
   ]
 }
