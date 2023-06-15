@@ -1,1 +1,1 @@
-# cricket-auction-app
+Cricket Auction Application
