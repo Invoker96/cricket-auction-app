@@ -1,5 +1,6 @@
 {
   "name": "spl-auction",
+  "homepage": "https://invoker96.github.io/cricket-auction-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
