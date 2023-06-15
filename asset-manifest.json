@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cricket-auction-app/static/css/main.3d6290f5.css",
-    "main.js": "/cricket-auction-app/static/js/main.4c52a74e.js",
-    "static/js/787.c37c9978.chunk.js": "/cricket-auction-app/static/js/787.c37c9978.chunk.js",
+    "main.js": "/cricket-auction-app/static/js/main.87cc0ae5.js",
+    "static/js/787.8323a123.chunk.js": "/cricket-auction-app/static/js/787.8323a123.chunk.js",
     "static/media/sold_gif.gif": "/cricket-auction-app/static/media/sold_gif.99996992d5c01606053d.gif",
     "static/media/live-logo.gif": "/cricket-auction-app/static/media/live-logo.032a4b97f8b84172591b.gif",
     "static/media/ball.gif": "/cricket-auction-app/static/media/ball.a7609d23951d49414124.gif",
@@ -10,11 +10,11 @@
     "static/media/sold_hammer.png": "/cricket-auction-app/static/media/sold_hammer.abed7ab6506d8ec3345f.png",
     "index.html": "/cricket-auction-app/index.html",
     "main.3d6290f5.css.map": "/cricket-auction-app/static/css/main.3d6290f5.css.map",
-    "main.4c52a74e.js.map": "/cricket-auction-app/static/js/main.4c52a74e.js.map",
-    "787.c37c9978.chunk.js.map": "/cricket-auction-app/static/js/787.c37c9978.chunk.js.map"
+    "main.87cc0ae5.js.map": "/cricket-auction-app/static/js/main.87cc0ae5.js.map",
+    "787.8323a123.chunk.js.map": "/cricket-auction-app/static/js/787.8323a123.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d6290f5.css",
-    "static/js/main.4c52a74e.js"
+    "static/js/main.87cc0ae5.js"
   ]
 }
