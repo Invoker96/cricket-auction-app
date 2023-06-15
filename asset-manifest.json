@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d6290f5.css",
+    "main.js": "/static/js/main.97f2b1ed.js",
+    "static/js/787.c37c9978.chunk.js": "/static/js/787.c37c9978.chunk.js",
+    "static/media/sold_gif.gif": "/static/media/sold_gif.99996992d5c01606053d.gif",
+    "static/media/live-logo.gif": "/static/media/live-logo.032a4b97f8b84172591b.gif",
+    "static/media/ball.gif": "/static/media/ball.a7609d23951d49414124.gif",
+    "static/media/ipl-logo.jpg": "/static/media/ipl-logo.379c80adfc92e071bd66.jpg",
+    "static/media/sold_hammer.png": "/static/media/sold_hammer.abed7ab6506d8ec3345f.png",
+    "index.html": "/index.html",
+    "main.3d6290f5.css.map": "/static/css/main.3d6290f5.css.map",
+    "main.97f2b1ed.js.map": "/static/js/main.97f2b1ed.js.map",
+    "787.c37c9978.chunk.js.map": "/static/js/787.c37c9978.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6290f5.css",
+    "static/js/main.97f2b1ed.js"
+  ]
+}
